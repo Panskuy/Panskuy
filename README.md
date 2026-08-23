@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=200&section=header&text=PANDEGA&fontSize=55&fontColor=39FF14&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UNESA%20%7C%20Web%20%26%20Mobile%20Dev&descAlignY=58&descSize=17&descColor=39FF14&animation=fadeIn" alt="header banner" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=560&height=60&lines=%24+whoami;pandega+%E2%80%94+cs+student+%40+unesa;%24+cat+status.txt;shipping+web+%26+mobile+builds..." alt="terminal typing" />
@@ -61,8 +63,20 @@ contact: open an issue / PR on this repo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panskuy&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
+<br/>
+
+```bash
+┌─[pandega@dev]─[~]
+└──╼ $ cat socials.env
+```
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Panskuy&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/pandega-rineksa-ndaru-b15a84292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/pandegarn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
 </p>
 
 <br/>
