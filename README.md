@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D1D1F,100:1D1D1F&height=170&section=header&text=Pandega%20Rineksa%20Ndaru&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=Computer%20Science%20Student%20%E2%80%94%20Web%20%26%20Mobile%20Developer&descAlignY=65&descSize=15&descColor=86868B" alt="header" />
+<h1 align="center">Pandega Rineksa Ndaru</h1>
+<p align="center"><sub>COMPUTER SCIENCE STUDENT — WEB &amp; MOBILE DEVELOPER</sub></p>
 
-<p align="center">
+<div>
+<p align="center" padding="">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=16&duration=3200&pause=1400&color=86868B&center=true&vCenter=true&width=560&height=36&lines=Designed+with+React%2C+Node.js+%26+Flutter;Focused+on+clarity+and+craft;Open+to+new+opportunities" alt="tagline" />
-</p>
+</p></div>
 
 <br/>
 
